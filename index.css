@@ -1,0 +1,26 @@
+@media (max-width: 480px) {
+  .back-btn {
+    margin-top: 10px;
+  }
+
+  .clear-btn {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+@media (max-width: 320px) {
+  /* .back-btn {
+    margin-top: 10px;
+  } */
+
+  /* .clear-btn {
+    padding-left: 5px;
+    padding-right: 5px;
+  } */
+
+  .traclear {
+    display: flex;
+    justify-content: space-between;
+  }
+}
